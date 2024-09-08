@@ -1,4 +1,4 @@
-'''
+/*
 C:编程填空：左边i位取反
 查看提交统计提问
 总时间限制: 1000ms 内存限制: 1024kB
@@ -35,7 +35,7 @@ int main() {
 提示
 注意i从1开始
 查看 提交 统计 提问
-'''
+*/
 #include <iostream>
 using namespace std;
 
